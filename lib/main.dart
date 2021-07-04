@@ -30,6 +30,6 @@ class MyApp extends StatelessWidget {
           'details': (_) => DetailScreen(),
         },
         theme: ThemeData.light()
-            .copyWith(appBarTheme: AppBarTheme(color: Colors.indigo)));
+            .copyWith(appBarTheme: AppBarTheme(color: Colors.red)));
   }
 }
